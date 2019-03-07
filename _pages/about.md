@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of your Github pages website!
+## Workshop on Empirical Experiences on Software Reuse (WEESR 2019)
+*colocated with Software Product Line Conference (SPLC 2019)*
 
-You can use all kinds of markdown. See [the guide](/events/markdown/).
+This workshop aims to bring together researchers and experts, to present significantly experience and challenges on the area of software reuse, particularly domain engineering applied to both, software and software process, in order to achieve an effective research methods and knowledge among researchers and practitioners.
 
-## Images
-![alt text](/images/500x300.png "Logo Title Text 1")
+
+![This year, WEESR will be at Paris](/images/weesr-2019-background.png "This year, WEESR will be at Paris")
 
