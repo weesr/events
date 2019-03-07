@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Home"
+title: "Workshop on Empirical Experiences on Software Reuse (WEESR 2019)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Workshop on Empirical Experiences on Software Reuse (WEESR 2019)
+ 
 *colocated with Software Product Line Conference (SPLC 2019)*
 
 This workshop aims to bring together researchers and experts, to present significantly experience and challenges on the area of software reuse, particularly domain engineering applied to both, software and software process, in order to achieve an effective research methods and knowledge among researchers and practitioners.
@@ -15,3 +14,4 @@ This workshop aims to bring together researchers and experts, to present signifi
 
 ![This year, WEESR will be at Paris](./images/weesr-2019-background.png "This year, WEESR will be at Paris")
 
+![Organized by Universidad del Cauca and Universidad de los Andes](./images/weesr-2019-logos.png) 
