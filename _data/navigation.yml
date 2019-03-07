@@ -3,6 +3,9 @@ main:
   - title: "Home"
     url: /
 
+  - title: "Submission"
+    url: /submission/
+
   - title: "Important dates"
     url: /dates/    
 
@@ -11,9 +14,6 @@ main:
 
 #  - title: "Logistics"
 #    url: /logistics/    
-
-#  - title: "Submission"
-#    url: /submission/
     
 #  - title: "Registration"
 #    url: /registration/
