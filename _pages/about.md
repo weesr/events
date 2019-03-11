@@ -1,6 +1,9 @@
 ---
 permalink: /
-title: "Workshop on Empirical Experiences on Software Reuse (WEESR 2019)"
+title: "Second Workshop on Empirical Experiences on Software Reuse (WEESR 2019)"
+header: 
+  - overlay_image: /images/weesr-2019-background.png
+  - overlay_filter: 0.5
 author_profile: true
 redirect_from: 
   - /about/
